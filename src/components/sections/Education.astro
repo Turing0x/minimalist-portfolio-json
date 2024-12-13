@@ -1,14 +1,17 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { education } from "@cv"
+import { education } from "@cv";
 ---
 
 <Section title="Educación">
   <ul>
     {
-      education.map(({ institution, startDate, endDate, area, courses }) => {
-        const years = `${startDate} - ${endDate}`
+      education.map(({ institution, startDate, endDate, area }) => {
+        const startYear = new Date(startDate).getFullYear();
+        const endYear =
+          endDate != null ? new Date(endDate).getFullYear() : "Actual";
+        const years = `${startYear} - ${endYear}`;
 
         return (
           <li>
@@ -22,17 +25,11 @@ import { education } from "@cv"
               </header>
 
               <footer>
-
-                {courses.map((course) => {
-                  return <span>{course}</span>
-                })}
-                
                 <p>{area}</p>
-
               </footer>
             </article>
           </li>
-        )
+        );
       })
     }
   </ul>
@@ -53,7 +50,7 @@ import { education } from "@cv"
   header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 4px;
   }
 
@@ -61,23 +58,6 @@ import { education } from "@cv"
     color: #555;
     font-size: 0.85rem;
     min-width: 102px;
-  }
-
-  footer {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px;
-    font-size: 0.6rem;
-  }
-
-  footer span {
-    border-radius: 6px;
-    margin-right: 10px;
-    background: #eee;
-    color: #444;
-    font-size: 0.6rem;
-    font-weight: 500;
-    padding: 0.2rem 0.6rem;
   }
 
   @media (width <= 700px) {

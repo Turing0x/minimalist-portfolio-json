@@ -2,11 +2,11 @@
   "basics": {
     "name": "Raúl García Fernández",
     "label": "Full Stack Developer con más de 6 años de experiencia",
-    "image": "./public/me.jpg",
+    "image": "/me.jpg",
     "email": "rauligf97@gmail.com",
     "phone": "+53 58884800",
     "url": "",
-    "summary": "+6 años de experiencia com desarrollador Full Stack con experiencia en el desarrollo web, aplicaciones móviles y de escritorio, me especializo en la creación de soluciones integrales que abarcan desde la interfaz de usuario hasta la base de datos. Mi enfoque se centra en la construcción de aplicaciones y sitios web eficientes y atractivos, garantizando que cada proyecto cumpla con los estándares de calidad y funcionalidad.",
+    "summary": "Con más de 6 años de experiencia como desarrollador Full Stack, me he especializado en la creación de soluciones tecnológicas integrales, abarcando desde el diseño de interfaces de usuario hasta la optimización de bases de datos. Mi enfoque se centra en desarrollar aplicaciones y sitios web eficientes, visualmente atractivos y funcionales, asegurando que cada proyecto cumpla con los más altos estándares de calidad y ofrezca una experiencia de usuario excepcional. Me apasiona transformar ideas complejas en soluciones prácticas y escalables, adaptadas a las necesidades específicas de cada cliente.",
     "location": {
       "address": "",
       "postalCode": "11300",
@@ -34,8 +34,7 @@
       "url": "https://www.facebook.com/dipmarielcu",
       "startDate": "2021-04-03",
       "endDate": "2021-07-22",
-      "summary": "Desarrollo de una aplicación para Windows, DipProy, está enfocado en la Gestión de Documentación de los ingenieros a pie de obra. ",
-      "highlights": ["Started the company"]
+      "summary": "Desarrollo de una aplicación para Windows, DipProy, está enfocado en la Gestión de Documentación de los ingenieros a pie de obra. "
     },
     {
       "name": "GoSeeClient",
@@ -43,32 +42,58 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-06-01",
       "endDate": "2022-09-01",
-      "summary": "Desarrollo de la aplicación móvil GoSeeClient. Esta aplicación busca organizar, supervisar y facilitar una comunicación segura y constante con los clientes de un emprendedor específico. Se utilizó Flutter + Dart y SQLite para la gestión de datos. Mantenimiento y actualización en curso.",
-      "highlights": ["Started the company"]
+      "summary": "Desarrollo de la aplicación móvil GoSeeClient. Esta aplicación busca organizar, supervisar y facilitar una comunicación segura y constante con los clientes de un emprendedor específico. Se utilizó Flutter + Dart y SQLite para la gestión de datos. Mantenimiento y actualización en curso."
     },
     {
       "name": "NEXTGEN",
       "position": "Senior BackEnd Developer",
       "startDate": "2022-03-01",
       "endDate": "2023-05-01",
-      "summary": "Desarrollo back-end de la aplicación web. Trabajamos con NodeJS - Express y MongoDB. Durante este proceso, se aprendió y aplicó la arquitectura de programación Hexagonal y Vertical Slice. Mantenimiento y actualización en curso.",
-      "highlights": ["Started the company"]
+      "summary": "Desarrollo back-end de la aplicación web. Trabajamos con NodeJS - Express y MongoDB. Durante este proceso, se aprendió y aplicó la arquitectura de programación Hexagonal y Vertical Slice. Mantenimiento y actualización en curso."
     },
     {
       "name": "Viaja Conmigo",
       "position": "Mobile Developer & Mobile Dev Leader",
-      "startDate": "2024-03-01",
-      "endDate": null,
-      "summary": "Viaja Conmigo es una aplicación móvil innovadora diseñada para agencias de viajes cubanas. Esta herramienta digital optimiza la gestión de transporte público, proveedores de transporte y servicios de carga, proporcionando una experiencia de viaje integrada y eficiente. Con Viaja Conmigo, los usuarios pueden planificar y reservar viajes de manera rápida y sencilla, desde la comodidad de su dispositivo móvil. La aplicación ofrece una plataforma completa para la gestión de reservas, incluyendo taxis, trenes y otros medios de transporte, y proporciona información en tiempo real sobre horarios, rutas y disponibilidad de servicios. Además, se centra en la experiencia del cliente, ofreciendo un servicio al cliente personalizado y opciones de pago seguras y convenientes.",
-      "highlights": ["Started the company"]
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
+      "summary": "Viaja Conmigo es una aplicación móvil innovadora diseñada para agencias de viajes cubanas. Esta herramienta digital optimiza la gestión de transporte público, proveedores de transporte y servicios de carga, proporcionando una experiencia de viaje integrada y eficiente. Con Viaja Conmigo, los usuarios pueden planificar y reservar viajes de manera rápida y sencilla, desde la comodidad de su dispositivo móvil. La aplicación ofrece una plataforma completa para la gestión de reservas, incluyendo taxis, trenes y otros medios de transporte, y proporciona información en tiempo real sobre horarios, rutas y disponibilidad de servicios. Además, se centra en la experiencia del cliente, ofreciendo un servicio al cliente personalizado y opciones de pago seguras y convenientes."
     },
     {
       "name": "E' Gustazo Cubano",
       "position": "Full Stack Developer & Team Leader",
-      "startDate": "2024-03-01",
+      "startDate": "2023-03-01",
+      "endDate": "2023-07-01",
+      "summary": "E' Gustazo Cubano es una aplicación móvil innovadora diseñada específicamente para pequeñas y medianas empresas (MIPYMES) en Cuba que comercializan productos alimenticios, electrodomésticos y más. La aplicación ofrece una plataforma digital que facilita la gestión de negocios, permitiendo a los usuarios llegar a una amplia audiencia de consumidores. Con E' Gustazo Cubano, las empresas pueden mostrar su catálogo de productos, establecer una presencia en línea sólida y atractiva, y facilitar transacciones seguras y eficientes. Además, la aplicación promueve la autenticidad y la cultura cubana, proporcionando una ventana a la gastronomía y la artesanía cubanas para un público más amplio."
+    },
+    {
+      "name": "Software como Trabajo de Diploma",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-01",
+      "summary": "La investigación desarrolló un módulo semiautomatizado diseñado para generar ficheros de configuración de servicios telemáticos en sistemas Linux, con el objetivo de optimizar el proceso de aprendizaje en la asignatura Redes y Seguridad Informática 2. Este módulo aborda las limitaciones de los métodos tradicionales empleados en el aula, como la indicación manual y la distribución de scripts preelaborados, que presentan desafíos en términos de eficiencia y precisión. Al automatizar la creación de ficheros de configuración, se facilita la personalización de escenarios de prácticas, reduciendo el tiempo invertido por los docentes y mejorando la calidad de la enseñanza. Este enfoque permite que los estudiantes se concentren en los conceptos clave de la asignatura, como la gestión y configuración de servicios telemáticos, sin la necesidad de memorizar parámetros o rutas específicas. Además, el módulo contribuye a la mejora de la enseñanza de las tecnologías de la información y la comunicación (TIC), favoreciendo un aprendizaje más estructurado y eficiente."
+    },
+    {
+      "name": "Marcerl Al Productions",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "E' Gustazo Cubano es una aplicación móvil innovadora diseñada específicamente para pequeñas y medianas empresas (MIPYMES) en Cuba que comercializan productos alimenticios, electrodomésticos y más. La aplicación ofrece una plataforma digital que facilita la gestión de negocios, permitiendo a los usuarios llegar a una amplia audiencia de consumidores. Con E' Gustazo Cubano, las empresas pueden mostrar su catálogo de productos, establecer una presencia en línea sólida y atractiva, y facilitar transacciones seguras y eficientes. Además, la aplicación promueve la autenticidad y la cultura cubana, proporcionando una ventana a la gastronomía y la artesanía cubanas para un público más amplio.",
-      "highlights": ["Started the company"]
+      "summary": "Marcel AL Productions es una empresa especializada en diseño gráfico y producción audiovisual, dedicada a brindar soluciones personalizadas que potencien el alcance de las plataformas de comercio electrónico y marketplaces de nuestros clientes. Nuestros servicios incluyen desarrollo de marca, optimización SEO, gestión de ingreso de datos para soporte multilingüe y transcripciones de videos. Trabajamos en estrecha colaboración con nuestros clientes para garantizar que cada proyecto se alinee con su visión y maximice su visibilidad en el mercado global. Nuestro objetivo es ayudar a las empresas a destacarse mediante la creación de contenido atractivo y la optimización de su presencia digital para el éxito."
+    },
+    {
+      "name": "4Life Tips",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
+      "url": "https://4lifetips-csg.pages.dev/",
+      "endDate": null,
+      "summary": "4Life Tips es un recurso que ofrece guías detalladas y recomendaciones para el uso de los productos 4Life, diseñados para mejorar la función inmunitaria y el bienestar general. La plataforma se centra en brindar información sobre los beneficios de productos como 4Life Transfer Factor, así como en promover un enfoque equilibrado de la salud a través de la nutrición, los antioxidantes, el apoyo cognitivo y más. El sitio también destaca ofertas especiales, incluidos descuentos y la importancia de consultar a profesionales de la salud antes de usar los productos en contextos médicos."
+    },
+    {
+      "name": "IndustrialX | Ofreciendo soluciones",
+      "position": "Full Stack Developer & Team Leader",
+      "url": "https://industialx-frontend.pages.dev/",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Se está desarrollando una plataforma de comercio electrónico enfocada en la comercialización de productos alimenticios en Cuba. Este proyecto tiene como objetivo principal modernizar y agilizar el proceso de compra y venta en el sector alimenticio, brindando una experiencia de usuario intuitiva y accesible tanto para comerciantes como para consumidores. Como elemento clave de cualquier e-commerce, el proyecto incluye la gestión de catálogos de productos, carrito de compras, sistema de órdenes y notificaciones en tiempo real. Además, se integra la pasarela de pago TropiPay para facilitar transacciones seguras y confiables, adaptadas al contexto local. El proyecto, aún en desarrollo, busca cubrir una necesidad creciente en el mercado cubano, ofreciendo una solución eficiente para la comercialización y distribución de alimentos en un entorno digital."
     }
   ],
   "volunteer": [
@@ -89,8 +114,8 @@
       "area": "Ingeniero en Ciencias Informáticas",
       "studyType": "Ingeniería",
       "startDate": "2021-11-01",
-      "endDate": "Acutualidad",
-      "score": "4.0",
+      "endDate": "2024-12-19",
+      "score": "4.22",
       "courses": [
         "Matemática Avanzada",
         "Arquitectura de Computadoras",

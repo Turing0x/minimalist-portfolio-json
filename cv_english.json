@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Raúl García Fernández",
-    " label ": "Full Stack Developer with more than 6 years of experience",
-    "image": "./public/me.jpg",
+    "name": "Raul Garcia Fernandez",
+    "label": "Full Stack Developer with more than 6 years of experience",
+    "image": "/me.jpg",
     "email": "rauligf97@gmail.com",
-    " phone ": "+53 58884800",
-    " url ": "",
-    " summary ": "+6 years of experience as a Full Stack developer with experience in web development, mobile and desktop applications, I specialize in creating comprehensive solutions that range from the user interface to the database. My approach focuses on building efficient and attractive applications and websites, ensuring that each project meets quality and functionality standards.",
-    " location ": {
-      " address ": "",
-      " postalCode ": "11300",
-      " city ": "Beach, Havana City",
+    "phone": "+53 58884800",
+    "url": "",
+    "summary": "With over 6 years of experience as a Full Stack developer, I have specialized in creating comprehensive technological solutions, ranging from user interface design to database optimization. My focus is on developing efficient, visually appealing and functional applications and websites, ensuring that each project meets the highest quality standards and offers an exceptional user experience. I am passionate about transforming complex ideas into practical and scalable solutions, tailored to the specific needs of each client.",
+    "location": {
+      "address": "",
+      "postalCode": "11300",
+      "city": "Beach, Havana City",
       "countryCode": "CU",
       "region": "Cuba"
     },
@@ -32,43 +32,68 @@
       "name": "DIP Mariel",
       "position": "Full Stack Developer",
       "url": "https://www.facebook.com/dipmarielcu",
-      " startDate ": "2021-04-03",
-      " endDate ": "2021-07-22",
-      " summary ": "Development of an application for Windows, DipProy , is focused on Documentation Management for engineers on the job site. ",
-      "highlights": ["Started the company"]
+      "startDate": "2021-04-03",
+      "endDate": "2021-07-22",
+      "summary": "Development of a Windows application, DipProy, is focused on Documentation Management for engineers on site."
     },
     {
       "name": "GoSeeClient",
       "position": "Full Stack Developer",
       "url": "https://twitch.tv/midudev",
-      " startDate ": "2021-06-01",
-      " endDate ": "2022-09-01",
-      " summary ": "Development of the GoSeeClient mobile application . This application seeks to organize, monitor and facilitate secure and constant communication with the clients of a specific entrepreneur. Flutter + Dart and SQLite were used for data management. Maintenance and update on course.",
-      "highlights": ["Started the company"]
+      "startDate": "2021-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Development of the GoSeeClient mobile application. This application seeks to organize, monitor and facilitate secure and constant communication with the clients of a specific entrepreneur. Flutter + Dart and SQLite were used for data management. Maintenance and updating in course."
     },
     {
       "name": "NEXTGEN",
       "position": "Senior BackEnd Developer",
-      " startDate ": "2022-03-01",
-      " endDate ": "2023-05-01",
-      " summary ": "Back- end development of the web application. We worked with NodeJS - Express and MongoDB. During this process, the Hexagonal and Vertical Slice programming architecture was learned and applied . Maintenance and update in progress.",
-      " highlights ": [" Started the company "]
+      "startDate": "2022-03-01",
+      "endDate": "2023-05-01",
+      "summary": "Back-end development of the web application. We worked with NodeJS - Express and MongoDB. During this process, Hexagonal and Vertical Slice programming architecture were learned and applied. Ongoing maintenance and updating."
     },
     {
-      " name ": "Travel with Me",
+      "name": "Travel With Me",
       "position": "Mobile Developer & Mobile Dev Leader",
-      " startDate ": "2024-03-01",
-      " endDate ": null,
-      " summary ": "Viaja Conmigo is an innovative mobile application designed for Cuban travel agencies. This digital tool optimizes the management of public transportation, transportation providers and cargo services, providing an integrated and efficient travel experience. With Viaja Conmigo, Users can plan and book trips quickly and easily, from the convenience of their mobile device. The application offers a complete platform for booking management, including taxis, trains and other means of transport, and provides real-time information on schedules, routes and availability of services. In addition, it focuses on the customer experience, offering personalized customer service and secure and convenient payment options.",
-      "highlights": ["Started the company"]
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
+      "summary": "Viaja Conmigo is an innovative mobile application designed for Cuban travel agencies. This digital tool optimizes the management of public transportation, transport providers and cargo services, providing an integrated and efficient travel experience. With Viaja Conmigo, users can plan and book trips quickly and easily, from the comfort of their mobile device. The application offers a complete platform for reservation management, including taxis, trains and other modes of transportation, and provides real-time information on schedules, routes and availability of services. In addition, it focuses on the customer experience, offering personalized customer service and secure and convenient payment options."
     },
     {
-      "name": "E'Gustazo Cubano",
+      "name": "Cuban Taste",
       "position": "Full Stack Developer & Team Leader",
-      " startDate ": "2024-03-01",
-      " endDate ": null,
-      " summary ": "E' Gustazo Cubano is an innovative mobile application designed specifically for small and medium-sized businesses (MSMEs) in Cuba that market food products, household appliances and more. The application offers a digital platform that facilitates business management, allowing users reach a wide audience of consumers. With E' Gustazo Cubano, businesses can showcase their product catalog, establish a strong and attractive online presence, and facilitate secure and efficient transactions. Additionally, the application promotes authenticity and Cuban culture, providing a window to Cuban gastronomy and crafts for a broader audience.",
-      "highlights": ["Started the company"]
+      "startDate": "2023-03-01",
+      "endDate": "2023-07-01",
+      "summary": "E' Gustazo Cubano is an innovative mobile app designed specifically for small and medium-sized enterprises (SMEs) in Cuba that market food products, household appliances, and more. The app offers a digital platform that facilitates business management, allowing users to reach a wide audience of consumers. With E' Gustazo Cubano, businesses can showcase their product catalog, establish a strong and attractive online presence, and facilitate secure and efficient transactions. Additionally, the app promotes Cuban authenticity and culture, providing a window to Cuban gastronomy and craftsmanship to a wider audience."
+    },
+    {
+      "name": "Software as a Diploma Thesis",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-01",
+      "summary": "The research developed a semi-automated module designed to generate telematic services configuration files on Linux systems, with the aim of optimizing the learning process in the subject Networks and Computer Security 2. This module addresses the limitations of traditional methods used in the classroom, such as manual indication and distribution of pre-written scripts, which present challenges in terms of efficiency and accuracy. By automating the creation of configuration files, the customization of practice scenarios is facilitated, reducing the time invested by teachers and improving the quality of teaching. This approach allows students to concentrate on the key concepts of the subject, such as the management and configuration of telematic services, without the need to memorize specific parameters or routes. In addition, the module contributes to the improvement of the teaching of information and communication technologies (ICT), favoring a more structured and efficient learning."
+    },
+    {
+      "name": "Marcerl Al Productions",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Marcel AL Productions is a graphic design and audiovisual production company dedicated to providing customized solutions that enhance the reach of our clients' e-commerce platforms and marketplaces. Our services include brand development, SEO optimization, data entry management for multilingual support, and video transcriptions. We work closely with our clients to ensure that each project aligns with their vision and maximizes their visibility in the global marketplace. Our goal is to help companies stand out by creating engaging content and optimizing their digital presence for success."
+    },
+    {
+      "name": "4Life Tips",
+      "position": "Full Stack Developer & Team Leader",
+      "startDate": "2024-07-01",
+      "url": "https://4lifetips-csg.pages.dev/",
+      "endDate": null,
+      "summary": "4Life Tips is a resource that offers detailed guides and recommendations for using 4Life products, designed to enhance immune function and overall wellness. The platform focuses on providing information on the benefits of products like 4Life Transfer Factor, as well as promoting a balanced approach to health through nutrition, antioxidants, cognitive support, and more. The site also highlights special offers, including discounts, and the importance of consulting with healthcare professionals before using products in medical settings."
+    },
+    {
+      "name": "IndustrialX | Offering solutions",
+      "position": "Full Stack Developer & Team Leader",
+      "url": "https://industialx-frontend.pages.dev/",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "An e-commerce platform focused on the marketing of food products in Cuba is being developed. The main objective of this project is to modernize and streamline the buying and selling process in the food sector, providing an intuitive and accessible user experience for both merchants and consumers. As a key element of any e-commerce, the project includes the management of product catalogs, shopping cart, order system and real-time notifications. In addition, the TropiPay payment gateway is integrated to facilitate secure and reliable transactions, adapted to the local context. The project, still in development, seeks to meet a growing need in the Cuban market, offering an efficient solution for the marketing and distribution of food in a digital environment."
     }
   ],
   "volunteer": [
@@ -82,16 +107,16 @@
       "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
-  " education ": [
+  "education": [
     {
-      " institution ": "University of Computer Sciences",
+      "institution": "University of Computer Sciences",
       "url": "https://www.uci.cu/",
-      " area ": "Computer Science Engineer",
+      "area": "Computer Science Engineer",
       "studyType": "Engineering",
       "startDate": "2021-11-01",
-      "endDate": "Currently",
-      "score": "4.0",
-      " courses ": [
+      "endDate": "2024-12-19",
+      "score": "4.22",
+      "courses": [
         "Advanced Mathematics",
         "Computer Architecture",
         "Database Systems (SQL & NoSQL)",
@@ -146,7 +171,7 @@
       "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development",
+        "Web Development",
         "Frontend",
         "CSS Framework",
         "Responsive Design"
@@ -156,7 +181,7 @@
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development",
+        "Web Development",
         "Frontend",
         "Backend",
         "JavaScript Superset"
@@ -175,12 +200,12 @@
     {
       "name": "Git",
       "level": "Advanced",
-      " keywords ": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
-      "keywords": ["Version control", "Collaboration", "Source code", "git"]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "React",
@@ -188,7 +213,7 @@
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
-      "name": "Flutter-Dart",
+      "name": "Flutter - Dart",
       "level": "Advanced",
       "keywords": ["Mobile Development", "Frontend", "Flutter Framework"]
     },
@@ -223,50 +248,50 @@
   "projects": [
     {
       "name": "mars.codes",
-      " isActive ": true,
-      " description ": "Interactive story with programming challenges to travel to Mars",
-      " highlights ": ["Choose your own adventure", "In development"],
+      "isActive": true,
+      "description": "Interactive story with programming challenges to travel to Mars",
+      "highlights": ["Choose Your Own Adventure", "In Development"],
       "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
-      " isActive ": true,
-      " description ": "JavaScript programming challenges for each day from December to Christmas",
-      " highlights ": [
+      "isActive": true,
+      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "highlights": [
         "+1 million views",
-        " Multilanguage ",
+        "Multilingual",
         "JavaScript & TypeScript"
       ],
       "url": "https://adventjs.dev"
     },
     {
-      " name ": " Codember ",
-      " isActive ": true,
-      " description ": "Interactive programming game with challenges and secrets",
-      " highlights ": ["+2000 active users", "Challenges for any language"],
+      "name": "Codember",
+      "isActive": true,
+      "description": "Interactive programming game with challenges and secrets",
+      "highlights": ["+2000 active users", "Challenges for any language"],
       "url": "https://codember.dev"
     },
     {
       "name": "codi.link",
-      " isActive ": true,
-      " description ": " HTML, CSS and JavaScript code playground to share",
-      " highlights ": ["100k views per month", "Community powered"],
+      "isActive": true,
+      "description": "Playground of HTML, CSS and JavaScript code to share",
+      "highlights": ["100k visits per month", "Community-powered"],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      " name ": "Technical Tests",
-      " isActive ": true,
-      " description ": "List of technical tests from companies to practice programming",
-      " highlights ": ["100% free", "+500 community solutions"],
-      " url ": "https://probstecnicas.com",
+      "name": "Technical Tests",
+      "isActive": true,
+      "description": "List of technical tests for companies to practice programming",
+      "highlights": ["100% free", "+500 community solutions"],
+      "url": "https://probstecnicas.com",
       "github": "https://github.com/midudev/tests-technical"
     },
     {
-      " name ": " miduConf ",
-      " description ": " Streaming programming conference for the Spanish-speaking community with top talks",
-      " highlights ": ["+15k tickets distributed", "+50k live viewers"],
-      " url ": "https://miduconf.com"
+      "name": "miduConf",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "highlights": ["+15k tickets distributed", "+50k live viewers"],
+      "url": "https://miduconf.com"
     }
   ]
 }
